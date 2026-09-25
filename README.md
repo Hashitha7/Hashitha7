@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋, I'm Hashitha Danidu
 
-<!--
-**Hashitha7/Hashitha7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Software Engineering Graduate | AI Enthusiast | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+I'm a Software Engineering graduate passionate about building
+AI-powered applications, web systems, and modern software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Software Engineering Graduate
+- 🤖 Interested in AI & Machine Learning
+- 💻 Full-Stack Development
+- ☁️ Interested in Cloud & DevOps
+- 🔭 Currently improving my AI & software engineering skills
+- 📍 Sri Lanka
+
+### 🛠️ Technologies
+
+**Languages**
+- Python
+- JavaScript / TypeScript
+- C#
+- Java
+- PHP
+
+**Frameworks**
+- React
+- Angular
+- ASP.NET
+- Spring Boot
+
+**Tools & Technologies**
+- Git & GitHub
+- MySQL
+- Docker
+- AWS
+- REST APIs
+
+### 📌 Featured Projects
+
+- 🎓 Modernistic LMS with AI Answer Analyst System
+- 🍌 Banana Nexus Game
+- 🏥 Medical Channeling System
+- 🛒 Car Sale POS System
+
+### 📫 Connect With Me
+
+- LinkedIn
+- Email
+- Portfolio
+
+---
+
+⭐ Thanks for visiting my profile!
