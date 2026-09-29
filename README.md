@@ -91,12 +91,10 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 👤 Profile Details
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Hashitha7&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=12&margin-h=12" alt="trophies"/>
-  </a>
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="70%" alt="profile details"/>
 </div>
 
 ---
@@ -115,8 +113,9 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Hashitha7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00d4&text_color=c9d1d9&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hashitha7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9" alt="top langs"/>
+<img height="200" src="./profile-summary-card-output/github_dark/3-stats.svg" alt="stats"/>
+<img height="200" src="./profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="top languages"/>
+<img height="200" src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="commit languages"/>
 
 <br/>
 
@@ -142,10 +141,10 @@
 
 ---
 
-## 📈 Contribution Activity
+## ⏱️ Productive Time
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hashitha7&bg_color=0d1117&color=00f7ff&line=ff00d4&point=ffffff&area=true&area_color=00f7ff&hide_border=true&custom_title=Hashitha%27s%20Contribution%20Graph" width="100%" alt="activity graph"/>
+  <img src="./profile-summary-card-output/github_dark/4-productive-time.svg" width="70%" alt="productive time"/>
 </div>
 
 ---
