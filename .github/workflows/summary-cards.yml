@@ -1,0 +1,32 @@
+# Save this file in your Hashitha7/Hashitha7 repo at:
+#   .github/workflows/summary-cards.yml
+#
+# It generates stats / languages / productive-time cards as SVG files inside
+# your own repo (profile-summary-card-output/), so nothing depends on
+# third-party servers that go down.
+
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 2 * * *"   # once a day
+  workflow_dispatch:       # lets you run it manually
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 5
+          AUTO_PUSH: true
