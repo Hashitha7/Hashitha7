@@ -131,13 +131,13 @@
 |---|---------|-------------|------|
 | 00 | **[Tenzor LABS](https://tenzor-labs.vercel.app/)** | Official web platform for my startup: AI workflows, software development & client engineering services | Next.js, TypeScript, Three.js, Framer Motion, Tailwind |
 | 01 | **[Modernistic LMS & AI Answer Analyst](https://lms-ai-answer-analyst-system.vercel.app/)** | Learning platform with an AI system that grades answers and gives feedback | React, Spring Boot, Python, Flask, NLP, JWT |
-| 02 | **TestNova AI QA Platform** | AI-driven QA platform powered by Google Gemini for test generation & automation | Next.js, FastAPI, Gemini API, SQLAlchemy |
-| 03 | **SuperMart POS** | Full-stack Point of Sale system with real-time analytics | Angular, Node.js, Express, SQLite, JWT |
-| 04 | **Stock Management System** | Inventory & billing system built for a real client | React, Node.js, MySQL, Gemini, Ollama |
-| 05 | **Banana Nexus Game** | Full-stack puzzle game with leaderboard | React, Spring Boot, MySQL |
-| 06 | **Blockchain in Go** | Wallets, Merkle tree validation, concurrent mining, difficulty retargeting | Go |
+| 02 | **[TestNova AI QA Platform](https://github.com/Hashitha7/AI-QA-Test-Generation-Platform.git)** | AI-driven QA platform powered by Google Gemini for test generation & automation | Next.js, FastAPI, Gemini API, SQLAlchemy |
+| 03 | **[SuperMart POS](https://github.com/Hashitha7/pos-system-fullstack-angular.git)** | Full-stack Point of Sale system with real-time analytics | Angular, Node.js, Express, SQLite, JWT |
+| 04 | **[Stock Management System](https://github.com/Hashitha7/Stock-Management-System.git)** | Inventory & billing system built for a real client | React, Node.js, MySQL, Gemini, Ollama |
+| 05 | **[Banana Nexus Game](https://github.com/Hashitha7/banana-nexus-game.git)** | Full-stack puzzle game with leaderboard | React, Spring Boot, MySQL |
+| 06 | **[Blockchain in Go](https://github.com/Hashitha7/go-multinode-blockchain.git)** | Wallets, Merkle tree validation, concurrent mining, difficulty retargeting | Go |
 
-> 🔗 Add your repo links to each project name once the repositories are public.
+
 
 ---
 
