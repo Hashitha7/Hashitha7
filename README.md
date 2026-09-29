@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Hashitha%20Danidu&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20AI%20Engineer%20%7C%20Founder%20%40%20Tenzor%20LABS&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
 <!-- TYPING ANIMATION -->
-<a href="https://hashitha.me">
+<a href="https://hashitha.vercel.app/">
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3200&pause=900&color=00F7FF&center=true&vCenter=true&width=820&height=60&lines=%3E+Hello+World%2C+I'm+Hashitha+Danidu+%F0%9F%91%8B;%3E+Software+Engineering+Graduate+%40+SLIIT;%3E+Building+AI-Powered+Web+Apps+%F0%9F%A4%96;%3E+Full+Stack+%7C+LLMs+%7C+Automation;%3E+Founder+%40+Tenzor+LABS+%F0%9F%9A%80;%3E+Let's+build+something+awesome+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
@@ -17,9 +17,9 @@
 
 <!-- PROFILE VIEWS + BADGES -->
 <img src="https://komarev.com/ghpvc/?username=Hashitha7&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge" alt="views"/>
-<a href="https://hashitha.me"><img src="https://img.shields.io/badge/PORTFOLIO-hashitha.me-ff00d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
+<a href="https://hashitha.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-hashitha.me-ff00d4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/hashitha-danidu-532925346/"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-<a href="mailto:hashithadanidu70@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
+<a href="mailto:hashithadanindu10@gmail.com"><img src="https://img.shields.io/badge/GMAIL-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="mail"/></a>
 
 </div>
 
@@ -53,12 +53,12 @@
 
 </div>
 
-- 🎓 Software Engineering graduate (SLIIT City Uni)
+- 🎓 Software Engineering Fresh Graduate (SLIIT City Uni)
 - 🧠 Passionate about **AI, LLMs & Machine Learning**
 - 💻 **Full-stack** development with the MERN stack, Next.js & TypeScript
 - ⚙️ Workflow automation with **n8n** and containerization with **Docker**
 - ☁️ Exploring **Cloud & DevOps**
-- 🚀 Founder @ **Tenzor LABS**: turning ideas into reliable, scalable products
+- 🚀 Founder and Owner @ **Tenzor LABS**: turning ideas into reliable, scalable products
 - 🌏 Based in Sri Lanka | Fluent in Sinhala & English
 
 ---
@@ -129,8 +129,8 @@
 
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
-| 00 | **[Tenzor LABS](https://hashitha.me)** | Official web platform for my startup: AI workflows, software development & client engineering services | Next.js, TypeScript, Three.js, Framer Motion, Tailwind |
-| 01 | **Modernistic LMS & AI Answer Analyst** | Learning platform with an AI system that grades answers and gives feedback | React, Spring Boot, Python, Flask, NLP, JWT |
+| 00 | **[Tenzor LABS](https://tenzor-labs.vercel.app/)** | Official web platform for my startup: AI workflows, software development & client engineering services | Next.js, TypeScript, Three.js, Framer Motion, Tailwind |
+| 01 | **[Modernistic LMS & AI Answer Analyst](https://lms-ai-answer-analyst-system.vercel.app/)** | Learning platform with an AI system that grades answers and gives feedback | React, Spring Boot, Python, Flask, NLP, JWT |
 | 02 | **TestNova AI QA Platform** | AI-driven QA platform powered by Google Gemini for test generation & automation | Next.js, FastAPI, Gemini API, SQLAlchemy |
 | 03 | **SuperMart POS** | Full-stack Point of Sale system with real-time analytics | Angular, Node.js, Express, SQLite, JWT |
 | 04 | **Stock Management System** | Inventory & billing system built for a real client | React, Node.js, MySQL, Gemini, Ollama |
@@ -165,9 +165,9 @@
 
 <div align="center">
 
-<a href="https://hashitha.me"><img src="https://img.shields.io/badge/🌐_Portfolio-hashitha.me-00f7ff?style=for-the-badge&labelColor=0d1117" alt="portfolio"/></a>
+<a href="https://hashitha.vercel.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-hashitha.me-00f7ff?style=for-the-badge&labelColor=0d1117" alt="portfolio"/></a>
 <a href="https://www.linkedin.com/in/hashitha-danidu-532925346/"><img src="https://img.shields.io/badge/💼_LinkedIn-Hashitha_Danidu-0A66C2?style=for-the-badge&labelColor=0d1117" alt="linkedin"/></a>
-<a href="mailto:hashithadanidu70@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_Hello-ea4335?style=for-the-badge&labelColor=0d1117" alt="email"/></a>
+<a href="mailto:hashithadanindu10@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Say_Hello-ea4335?style=for-the-badge&labelColor=0d1117" alt="email"/></a>
 
 <br/><br/>
 
